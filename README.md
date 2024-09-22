@@ -9,6 +9,7 @@ Inputs are:
   * Initial stagnation temperature
   * Ambient pressure
   * Pipe rupture diameter
+
 Outputs are:
   * Critical mass flux (Henry-Fauske model)
   * Jet boundaries geometry
